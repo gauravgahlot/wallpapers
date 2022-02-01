@@ -5,7 +5,6 @@
 This wallpaper collection is borrowed from **Derek Taylor**'s [wallpaper collection](https://gitlab.com/dwt1/wallpapers).
 If you haven't checked his [Youtube channel](https://www.youtube.com/c/DistroTube) already, I would highly recommend you do that.
 
-![Screenshot - Wallpapers](https://github.com/gauravgahlot/dotfiles/blob/master/.screenshots/dotfiles10.png) 
 
 ## Where Did he Get These?
 
